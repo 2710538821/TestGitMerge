@@ -11,11 +11,8 @@
 
 
     <p>我是李春峰</p>
-<<<<<<< Updated upstream
-    <p>傻狗</p>
-=======
+
     <p>tym</p>
->>>>>>> Stashed changes
   </div>
 </template>
 

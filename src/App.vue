@@ -2,10 +2,14 @@
   <div id="app">
     <router-view></router-view>
 
+
     <h3>我是杜春龙这是第一个标签</h3>
 
 
     <p>王雪娜-----------</p>
+
+
+    <p>我是李春峰</p>
 
   </div>
 </template>

@@ -11,7 +11,7 @@
 
 
     <p>我是李春峰</p>
-
+    <p>傻狗</p>
   </div>
 </template>
 
@@ -21,4 +21,5 @@ export default {
 }
 </script>
 
-<style lang="less"></style>
+<style lang="less">
+</style>
